@@ -1,0 +1,2 @@
+# MOLECULAR-DOCKING-IN-THE-DISCOVERY-OF-ACETYLCHOLINESTERASE-INHIBITORS-FOR-ALZHEIMER-S-DISEASE
+This repository contains a review paper focused on the use of molecular docking techniques to identify potential acetylcholinesterase (AChE) inhibitors for the treatment of Alzheimer’s disease. The paper discusses the disease background, role of AChE, docking methods, and recent studies involving both synthetic and natural compounds.
